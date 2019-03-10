@@ -4,7 +4,7 @@ A Test-Driven Approach to Improving Student Contributions to Open-Source Project
 ### Twelve Course Projects
 <table class="tg">
   <tr>
-    <th class="tg-xldj">Group\tnote{a}</th>
+    <th class="tg-xldj">Group</th>
     <th class="tg-xldj">Project id and name</th>
     <th class="tg-xldj">Test skeleton</th>
   </tr>

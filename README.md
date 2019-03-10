@@ -1,6 +1,7 @@
 A Test-Driven Approach to Improving Student Contributions to Open-Source Projects
 --
 
+### Twelve Course Projects
 <table class="tg">
   <tr>
     <th class="tg-xldj">Group\tnote{a}</th>
@@ -58,3 +59,5 @@ A Test-Driven Approach to Improving Student Contributions to Open-Source Project
     <td class="tg-0pky"><i>sign_up_sheet_controller_spec.rb</i></td>
   </tr>
 </table>
+
+> Students are required to write unit tests (project 1-3 and 7-9) or integration tests (project 4-6 and 10-12).

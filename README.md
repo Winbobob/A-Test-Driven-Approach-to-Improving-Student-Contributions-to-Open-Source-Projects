@@ -1,5 +1,6 @@
 A Test-Driven Approach to Improving Student Contributions to Open-Source Projects
 --
+> FIE'19 paper: https://ieeexplore.ieee.org/abstract/document/9028521
 
 ### Twelve Course Projects
 <table class="tg">
